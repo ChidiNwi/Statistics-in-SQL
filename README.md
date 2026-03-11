@@ -1,4 +1,4 @@
-# Statistics in SQL
+# Proficiency in SQL
 
 ## Project Overview
 This project demonstrates how statistical analysis can be performed using Python. 
